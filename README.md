@@ -15,9 +15,13 @@ I built a functional Active Directory environment on Azure to learn enterprise W
 - Established Organizational Unit (OU) structure for IT Department
 
 ### Users Created
-- testuser1 (member of IT Department OU)
-- testuser2 (member of IT Department OU)
-- testuser3 (member of IT Department OU)
+- testuser1 (IT Department)
+- testuser2 (IT Department)
+- testuser3 (IT Department)
+- salesuser1 (Sales Department)
+- salesuser2 (Sales Department)
+- financeuser1 (Finance Department)
+- financeuser2 (Finance Department)
 
 ### Groups Created
 - IT Staff (security group containing testuser1 and testuser2)
